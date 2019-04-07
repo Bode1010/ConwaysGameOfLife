@@ -1,0 +1,24 @@
+﻿  GameOfLife.cpp
+c:\users\olabo\source\repos\gameoflife\gameoflife\gameoflife.cpp(40): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\olabo\source\repos\gameoflife\gameoflife\gameoflife.cpp(41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\olabo\source\repos\gameoflife\gameoflife\gameoflife.cpp(42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+c:\users\olabo\source\repos\gameoflife\gameoflife\gameoflife.cpp(43): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  LifeBoard.cpp
+  Generating Code...
+  GameOfLife.vcxproj -> C:\Users\olabo\source\repos\GameOfLife\Debug\GameOfLife.exe
